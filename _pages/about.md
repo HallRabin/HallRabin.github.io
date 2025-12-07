@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Saturday 13 June 2026
+subtitle: Saturday 13th June 2026
 
 profile:
   align: right
@@ -11,16 +11,18 @@ profile:
   more_info:
 ---
 
-<p>
-⛪ Ceremony at St Paul's Church, Kewstoke, Weston-super-Mare
 <br>
-🍽️ Reception at Batch Country House, Lympsham
-</p>
+<h5>
+⛪ Ceremony ⛪ 
+</h5>
+<h6>St Paul's Church, Kewstoke, Weston-super-Mare</h6>
+<h5>🍽️ Reception 🍽️ </h5>
+<h6>Batch Country House, Lympsham</h6>
 
 <br>
-
-<img src="assets/img/sunset.jpg" style="max-width:600px;width:100%">
 
 We are getting married!
 
-This site has information about [accomodation](accomodation), [food](food), [schedule](schedule), and [answers](questions) to other questions.
+This site has information about the [schedule](schedule), [food](food), [accomodation](accomodation), and [answers](questions) to other questions.
+
+<img src="assets/img/sunset.jpg" style="max-width:600px;width:100%">
