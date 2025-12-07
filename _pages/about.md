@@ -11,8 +11,16 @@ profile:
   more_info:
 ---
 
-Batch Country House, Lympsham<br>Weston-Super-Mare, Somerset
+<h5>
+⛪ Ceremony at St Paul's Church, Kewstoke, Weston-super-Mare
+<br>
+🍽️ Reception at Batch Country House, Lympsham
+</h5>
+
+<br>
+
+<img src="assets/img/sunset.jpg" style="max-width:600px;width:100%">
 
 We are getting married!
 
-<img src="assets/img/sunset.jpg" style="max-width:600px;width:100%">
+This site has information about [accomodation](accomodation), [food](food), [schedule](schedule), and [answers](answers) to other questions.
