@@ -9,7 +9,35 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "books-the-godfather",
+  },{id: "nav-accomodation",
+          title: "Accomodation",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/accomodation/";
+          },
+        },{id: "nav-food",
+          title: "Food",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/food/";
+          },
+        },{id: "nav-schedule",
+          title: "Schedule",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/schedule/";
+          },
+        },{id: "nav-questions",
+          title: "Questions",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/questions/";
+          },
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
