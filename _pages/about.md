@@ -23,4 +23,4 @@ profile:
 
 We are getting married!
 
-This site has information about [accomodation](accomodation), [food](food), [schedule](schedule), and [answers](answers) to other questions.
+This site has information about [accomodation](accomodation), [food](food), [schedule](schedule), and [answers](questions) to other questions.
