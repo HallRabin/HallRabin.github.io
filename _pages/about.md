@@ -11,11 +11,11 @@ profile:
   more_info:
 ---
 
-<h5>
+<p>
 ⛪ Ceremony at St Paul's Church, Kewstoke, Weston-super-Mare
 <br>
 🍽️ Reception at Batch Country House, Lympsham
-</h5>
+</p>
 
 <br>
 
