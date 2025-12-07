@@ -7,4 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-This contains information about food.
+All the food at our wedding will be vegetarian or vegan 😎🥬🍄‍🟫
+
+We will add a menu selection to this page at some point...
