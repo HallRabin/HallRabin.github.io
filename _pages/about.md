@@ -11,4 +11,6 @@ profile:
   more_info:
 ---
 
+Batch Country House, Lympsham<br>Weston-Super-Mare, Somerset
+
 We are getting married!
