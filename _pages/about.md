@@ -23,6 +23,6 @@ profile:
 
 We are getting married!
 
-This site has information about the [schedule](schedule), [food](food), [accomodation](accomodation), and [answers](questions) to other questions.
+This site has information about the [schedule](schedule), [food](food), [accommodation](accommodation), and [answers](questions) to other questions.
 
 <img src="assets/img/sunset.jpg" style="max-width:600px;width:100%">

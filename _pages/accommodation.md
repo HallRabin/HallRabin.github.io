@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /accomodation/
-title: Accomodation
+permalink: /accommodation/
+title: Accommodation
 description:
 nav: true
 nav_order: 4
