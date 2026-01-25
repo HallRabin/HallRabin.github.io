@@ -56,7 +56,7 @@ The reception venue's postcode is BS24 0EX. The what3words is [lake.tigers.blaze
 <br>
 #### What is the accommodation situation?
 
-See [here](accommodation).
+See [here](https://georgeandamelia.co.uk/accommodation/).
 
 <br>
 #### Can I bring my dog?
