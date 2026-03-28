@@ -28,9 +28,7 @@ In case this helps inform your clothing decisions: there will be a bouncy castle
 <br>
 #### Can I buy you a gift?
 
-We appreciate that you will have spent money just to attend our wedding, so please don’t feel obliged to buy us anything! That said...
-
-We will sort out a wedding registry -- John Lewis have stopped doing their registry for some reason so we need to find an alternative. Thank you!
+Please see [here](/gifts).
 
 <br>
 #### What is the transport situation?
